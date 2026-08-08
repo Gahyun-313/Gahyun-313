@@ -87,8 +87,6 @@ Android 개발을 시작으로 React Native를 경험하고,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID\&layout=compact\&theme=tokyonight)
-
 ---
 
 ### 📫 Contact
