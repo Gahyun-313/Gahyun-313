@@ -23,7 +23,7 @@ Android 개발을 시작으로 React Native를 경험하고,
 | Concurrency & Real-time | `Redisson` `Distributed Lock` `WebSocket` `STOMP` |
 | Architecture | `Layered` `Event-Driven` `Static Factory Method` |
 
-**Projects** · [출석하자 BE](출석하자-BE-레포-링크)
+**Projects** · [NFC 기반 출석 관리 프로젝트 - 출석하자-BE](https://github.com/Gahyun-313/attendance-be)
 
 </details>
 
@@ -43,7 +43,7 @@ Android 개발을 시작으로 React Native를 경험하고,
 | Authentication | `Google` `Kakao` `Custom Login` |
 | Storage | `SQLite` |
 
-**Projects** · [출석하자 AOS](출석하자-AOS-레포-링크) · [BattleRunner](BattleRunner-레포-링크)
+**Projects** · [2인 배틀 형식 안드로이드 러닝 앱 - 배틀러너](https://github.com/Gahyun-313/BattleRunner)
 
 </details>
 
@@ -64,7 +64,7 @@ Android 개발을 시작으로 React Native를 경험하고,
 | Analytics | `Firebase Analytics` `Mixpanel` |
 | Additional | `AdMob` `Lottie` `SVG` |
 
-**Projects** · [Neurous](Neurous-레포-링크)
+**Projects** · [문해력 학습 안드로이드/ios 앱 - 뉴로스](https://github.com/Gahyun-313/neurous-client)
 
 </details>
 
