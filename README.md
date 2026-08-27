@@ -23,8 +23,7 @@ Android 개발을 시작으로 React Native를 경험하고,
 | Concurrency & Real-time | `Redisson` `Distributed Lock` `WebSocket` `STOMP` |
 | Architecture | `Layered` `Event-Driven` `Static Factory Method` |
 
-**Projects** · [NFC 기반 출석 관리 프로젝트 - 출석하자-BE](https://github.com/Gahyun-313/attendance-be)
-
+**Projects** · [NFC 기반 출석 관리 프로젝트 - 출석하자-BE](https://github.com/Gahyun-313/attendance-be) · [백엔드 프레임워크 웹 앱 실습 프로젝트](https://github.com/Gahyun-313/web-framework-from-scratch)
 </details>
 
 ### 📱 Android
