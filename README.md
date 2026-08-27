@@ -106,6 +106,6 @@ Android 개발을 시작으로 React Native를 경험하고,
 
 `DNN` `CNN` `RNN` `MNIST` `CIFAR10` `Iris` `Digits`
 
-**Repository** · [Deep Learning Practice](딥러닝-레포-링크)
+**Repository** · [Deep Learning Practice](https://github.com/Gahyun-313/deep-learning-practice)
 
 </details>
