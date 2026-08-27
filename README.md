@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-### Backend & Mobile Developer
+###  Mobile & Backend Developer
 
 Android 개발을 시작으로 React Native를 경험하고,
 앱 개발을 넘어 서비스 전체의 흐름을 이해하기 위해 Backend 개발을 공부하고 있습니다.
