@@ -8,6 +8,12 @@ Android 개발을 시작으로 React Native를 경험하고,
 빠르게 변화하는 개발 환경 속에서 새로운 기술을 두려워하지 않고,
 상황에 맞는 기술을 선택하며 유연하게 대응하는 개발자를 목표로 합니다.
 
+<br>
+
+> 💬각 토글에서 관련 프로젝트의 레포지토리를 확인할 수 있습니다!
+
+<br>
+
 ### ⚙️ Backend
 
 `Java 17` `Spring Boot` `Spring Security` `JPA` `Redis` `Redisson` `WebSocket`
@@ -28,17 +34,17 @@ Android 개발을 시작으로 React Native를 경험하고,
 
 ### 📱 Android
 
-`Kotlin` `MVVM` `Retrofit2` `Google Maps` `SQLite`
+`Kotlin` `Jetpack Compose` `MVVM` `Retrofit2` `Google Maps` `SQLite`
 
 <details>
 <summary>More</summary>
 
 | Category | Stack |
 | --- | --- |
-| Language | `Kotlin` |
-| Architecture | `MVVM` `ViewModel` `LiveData` `ViewBinding` `Navigation Component` |
+| Language & UI | `Kotlin` `Jetpack Compose` `Material 3` `XML` `ViewBinding` |
+| Architecture | `MVVM` `ViewModel` `LiveData` `Navigation Component` |
 | Network | `Retrofit2` `OkHttp3` `Gson` |
-| Location | `Google Maps SDK` `FusedLocationProviderClient` |
+| Location & Service | `Google Maps SDK` `FusedLocationProviderClient` `Foreground Service` |
 | Authentication | `Google` `Kakao` `Custom Login` |
 | Storage | `SQLite` |
 
@@ -63,7 +69,7 @@ Android 개발을 시작으로 React Native를 경험하고,
 | Analytics | `Firebase Analytics` `Mixpanel` |
 | Additional | `AdMob` `Lottie` `SVG` |
 
-**Projects** · [문해력 학습 안드로이드/ios 앱 - 뉴로스](https://github.com/Gahyun-313/neurous-client) · [뉴로스 1차](https://github.com/Gahyun-313/neurous-swyp)
+**Projects** · [문해력 학습 안드로이드/ios 앱 - 뉴로스](https://github.com/Gahyun-313/neurous-client) · [스위프 앱 3기 - 뉴로스(고도화 이전)](https://github.com/Gahyun-313/neurous-swyp)
 
 </details>
 
