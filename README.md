@@ -63,7 +63,7 @@ Android 개발을 시작으로 React Native를 경험하고,
 | Analytics | `Firebase Analytics` `Mixpanel` |
 | Additional | `AdMob` `Lottie` `SVG` |
 
-**Projects** · [문해력 학습 안드로이드/ios 앱 - 뉴로스](https://github.com/Gahyun-313/neurous-client)
+**Projects** · [문해력 학습 안드로이드/ios 앱 - 뉴로스](https://github.com/Gahyun-313/neurous-client) · [뉴로스 1차](https://github.com/Gahyun-313/neurous-swyp)
 
 </details>
 
