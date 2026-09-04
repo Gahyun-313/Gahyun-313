@@ -2,7 +2,7 @@
 
 Android 개발을 시작으로 React Native 앱을 배포하고, 앱 개발을 넘어 서비스 전체의 흐름을 이해하기 위해 Backend 개발을 공부하고 있습니다.
 
-새로운 기술을 두려워하지 않고 상황에 맞는 기술을 선택해 유연하게 대응하는 개발자를 꿈꿉니다!
+새로운 기술을 두려워하지 않고 상황에 맞는 기술을 선택해 유연하게 대응하는 개발자를 꿈꿉니다 😆
 
 <br>
 
@@ -15,7 +15,7 @@ Android 개발을 시작으로 React Native 앱을 배포하고, 앱 개발을 �
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![SSE](https://img.shields.io/badge/SSE-009688?style=flat-square&logoColor=white)
 
-**Projects** · [문해력 학습 안드로이드/ios 앱 - 뉴로스](https://github.com/Gahyun-313/neurous-client) · [스위프 앱 3기 - 뉴로스(고도화 이전)](https://github.com/Gahyun-313/neurous-swyp)
+**Projects** · [[뉴로스] 문해력 학습 안드로이드/ios 앱](https://github.com/Gahyun-313/neurous-client) · [[스위프 앱 3기] 뉴로스](https://github.com/Gahyun-313/neurous-swyp)
 
 <details>
 <summary>More</summary>
@@ -43,7 +43,7 @@ Android 개발을 시작으로 React Native 앱을 배포하고, 앱 개발을 �
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Projects** · [2인 배틀 형식 안드로이드 러닝 앱 - 배틀러너](https://github.com/Gahyun-313/BattleRunner)
+**Projects** · [[배틀러너] 2인 배틀 형식 안드로이드 러닝 앱](https://github.com/Gahyun-313/BattleRunner)
 
 <details>
 <summary>More</summary>
@@ -71,7 +71,7 @@ Android 개발을 시작으로 React Native 앱을 배포하고, 앱 개발을 �
 ![Redisson](https://img.shields.io/badge/Redisson-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Projects** · [NFC 기반 출석 관리 프로젝트 - 출석하자-BE](https://github.com/Gahyun-313/attendance-be) · [백엔드 프레임워크 웹 앱 실습 프로젝트](https://github.com/Gahyun-313/web-framework-from-scratch)
+**Projects** · [[출석하자-BE] NFC 기반 출석 관리 프로젝트](https://github.com/Gahyun-313/attendance-be) · [백엔드 프레임워크 웹 앱 실습 프로젝트](https://github.com/Gahyun-313/web-framework-from-scratch)
 
 <details>
 <summary>More</summary>
