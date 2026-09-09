@@ -67,7 +67,8 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 <br><br>
 <strong>Projects</strong><br>
-<a href="https://github.com/Gahyun-313/BattleRunner">[배틀러너] 2인 배틀 형식 안드로이드 러닝 앱</a>
+<a href="https://github.com/Gahyun-313/BattleRunner">[배틀러너] 2인 배틀 형식 안드로이드 러닝 앱</a><br>
+<a href="https://github.com/Gahyun-313/attendance-app">[출석하자-APP] NFC 기반 출석 관리 프로젝트</a>
 <br><br>
 <details>
 <summary>Android More</summary>
