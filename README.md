@@ -1,6 +1,6 @@
 <h3>Mobile & Backend Developer</h3>
-<p>Android 개발을 시작으로 React Native 앱을 배포하고, 앱 개발을 넘어 서비스 전체의 흐름을 이해하기 위해 Backend 개발을 공부하고 있습니다.</p>
-<p>새로운 기술을 두려워하지 않고 상황에 맞는 기술을 선택해 유연하게 대응하는 개발자를 꿈꿉니다 😆</p>
+<p>Android 개발을 시작으로 React Native 앱을 출시하고 지속적으로 고도화해왔으며, 서비스 전체의 흐름을 이해하기 위해 Backend까지 개발 영역을 확장하고 있습니다.</p>
+<p>특정 기술에 국한되지 않고 서비스에 필요한 기술을 유연하게 선택하고 활용하는 개발자를 지향합니다 😆</p>
 
 <table width="100%">
 <tr>
@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/SSE-009688?style=flat-square&logoColor=white" alt="SSE">
 <br><br>
 <strong>Projects</strong><br>
-<a href="https://github.com/Gahyun-313/neurous-client">[뉴로스] 문해력 학습 안드로이드/iOS 앱</a><br>
-<a href="https://github.com/Gahyun-313/neurous-swyp">[스위프 앱 3기] 뉴로스</a>
+<a href="https://github.com/Gahyun-313/neurous-client">[뉴로스] 문해력 학습 앱 - 고도화 운영</a><br>
+<a href="https://github.com/Gahyun-313/neurous-swyp">[뉴로스] 문해력 학습 앱 - 초기 개발 (스위프 앱 3기)</a>
 <br><br>
 <details>
 <summary>React Native More</summary>
@@ -67,8 +67,8 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 <br><br>
 <strong>Projects</strong><br>
-<a href="https://github.com/Gahyun-313/BattleRunner">[배틀러너] 2인 배틀 형식 안드로이드 러닝 앱</a><br>
-<a href="https://github.com/Gahyun-313/attendance-app">[출석하자-APP] NFC 기반 출석 관리 프로젝트</a>
+<a href="https://github.com/Gahyun-313/attendance-app">[출석하자-APP] NFC 기반 출석 관리 프로젝트</a><br>
+<a href="https://github.com/Gahyun-313/BattleRunner">[배틀러너] 실시간 위치 기반 2인 배틀 러닝 앱</a>
 <br><br>
 <details>
 <summary>Android More</summary>
