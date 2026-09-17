@@ -18,7 +18,7 @@
 <a href="https://github.com/Gahyun-313/neurous-swyp">[뉴로스] 문해력 학습 앱 - 초기 개발 (스위프 앱 3기)</a>
 <br><br>
 <details>
-<summary>React Native More</summary>
+<summary>React Native 더보기 ⬇️</summary>
 <br>
 <table width="100%">
 <tr>
@@ -55,6 +55,7 @@
 </tr>
 </table>
 </details>
+<br>
 </td>
 
 <td width="50%" valign="top">
@@ -71,7 +72,7 @@
 <a href="https://github.com/Gahyun-313/BattleRunner">[배틀러너] 실시간 위치 기반 2인 배틀 러닝 앱</a>
 <br><br>
 <details>
-<summary>Android More</summary>
+<summary>Android 더보기 ⬇️</summary>
 <br>
 <table width="100%">
 <tr>
@@ -104,6 +105,7 @@
 </tr>
 </table>
 </details>
+<br>
 </td>
 </tr>
 
@@ -123,7 +125,7 @@
 <a href="https://github.com/Gahyun-313/web-framework-from-scratch">백엔드 프레임워크 웹 앱 실습 프로젝트</a>
 <br><br>
 <details>
-<summary>Backend More</summary>
+<summary>Backend 더보기 ⬇️</summary>
 <br>
 <table width="100%">
 <tr>
@@ -152,6 +154,7 @@
 </tr>
 </table>
 </details>
+<br>
 </td>
 
 <td width="50%" valign="top">
