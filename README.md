@@ -197,6 +197,7 @@
 <tr>
 <td><strong>AI Development</strong></td>
 <td>
+<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex">
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
 <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white" alt="MCP">
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
