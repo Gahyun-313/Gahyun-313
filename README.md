@@ -1,4 +1,4 @@
-## BACKEND
+## 💻 BACKEND
 <table width="100%">
 <tr>
 <td>
@@ -20,9 +20,10 @@
 <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="AWS RDS">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
+
 </td></tr></table>
 
-## MOBILE
+## 📱 MOBILE
 <table width="100%">
 <tr>
 <td>
@@ -55,9 +56,6 @@
 
 </td></tr>
 </table>
-
----
-
 
 
 ## Tools & Others
