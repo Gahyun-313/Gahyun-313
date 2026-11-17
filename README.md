@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket">
 <br><br>
 <strong>Projects</strong><br>
-<a href="https://github.com/Gahyun-313/attendance-be">[출석하자-BE] NFC 기반 출석 관리 프로젝트</a>
-
+<a href="https://github.com/Gahyun-313/attendance-be">[출석하자-BE] NFC 기반 출석 관리 프로젝트</a><br>
+<a href="https://github.com/Gahyun-313/board-and-user-practice">[게시판] 회원 인증과 작성자 권한 검사를 갖춘 게시판 프로젝트</a>
 ---
 <h3>Cloud & DevOps</h3>
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2">
